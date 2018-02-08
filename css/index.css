@@ -300,6 +300,7 @@
 	float: left;
 	height: 614px;
 	width: 234px;
+	transition: all 5s linear;
 }
 .zhineng_datu1{
 	height: 614px;
@@ -323,6 +324,7 @@
 	position: relative;
 	top: 0;
 	overflow: hidden;
+	transition: all 0.2s linear;
 	
 }
 .zhineng_tu2:hover{
